@@ -1,0 +1,10 @@
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.csproj.AssemblyReference.cache
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.AssemblyInfoInputs.cache
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.AssemblyInfo.cs
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.RazorAssemblyInfo.cache
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.RazorAssemblyInfo.cs
+C:\Users\50705111\Downloads\TP04---Album-de-figuritas\obj\Debug\net9.0\TP04.sourcelink.json

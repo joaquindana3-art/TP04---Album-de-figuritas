@@ -9,5 +9,4 @@ public class Jugador
     private string seleccion;
     private int numeroCamiseta;
     private int id;
-
 }
